@@ -5,6 +5,7 @@ export default function App() {
   return (
     <div>
       <h1>Redux Learn</h1>
+      <h2>Here I'm Changing</h2>
       <UserInfo />
       <Buttonupdate />
     </div>
